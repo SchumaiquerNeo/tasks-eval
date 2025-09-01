@@ -1,0 +1,11 @@
+models:
+  - gpt-4
+  - gpt-4o
+
+# Benchmark que deseja rodar: "mmlu" ou "gsm8k"
+task: gsm8k
+
+n_fewshot: 5
+max_samples: None
+num_concurrent: 5
+output_dir: results
