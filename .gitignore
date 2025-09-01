@@ -1,0 +1,11 @@
+# dotenv environment file (if you keep a template around, ignore the real one)
+.env.local
+.env.*.local
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+.env
+.env
+.env
